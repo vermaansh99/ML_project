@@ -1,0 +1,3 @@
+[ 2023-05-04 02:41:10,166] 24 root - INFO - Entered the data ingestion method or component
+[ 2023-05-04 02:41:10,172] 27 root - INFO - Read the dataset as dataframe
+[ 2023-05-04 02:41:10,179] 33 root - INFO - Trian test split initiated

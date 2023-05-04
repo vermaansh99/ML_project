@@ -40,7 +40,7 @@ class DataTransformation:
 
             num_pipeline = Pipeline(
                 steps=[
-                ("imputer",SimpleImputer(statergy="median"))
+                ("imputer",SimpleImputer(statergy="median")),
                 ("scaler",StandardScaler())
 
                 ]
@@ -50,7 +50,7 @@ class DataTransformation:
 
                 steps=[
                 ("imputer",SimpleImputer(statergy="most_frequent")),
-                ("one_hot_encoder",OneHotEncoder())
+                ("one_hot_encoder",OneHotEncoder()),
                 ("scaler",StandardScaler())
 
                 ]
@@ -59,12 +59,12 @@ class DataTransformation:
 
             )
 
-            logging.info("Numerical columns standard scaling completed")
-            logging.info("Categorical columns encoding completed")
+            logging.info(f"Categorical columns: {categorical_columns}")
+            logging.info(f"Numerical columns: {numerical_columns}")
 
             preprocessor=ColumnTransformer(
                 [
-                ("num_pipeline",num_pipeline,numerical_columns)
+                ("num_pipeline",num_pipeline,numerical_columns),
                 ("cat_pipeline",cat_pipeline,categorical_columns)
 
 
@@ -128,7 +128,13 @@ class DataTransformation:
                 self.data_transformation_config.preprocessor_obj_file_path,
             )
 
+            predicted=best_model.predict(X_test)
+
+            r2_square = r2_score(y_test,predicted)
+            return r2_square
+        
 
 
-        except:
-            pass
+        except Exception as e:
+            raise CustomException(e,sys)
+            

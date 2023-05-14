@@ -1,0 +1,25 @@
+[ 2023-05-14 19:08:09,458] 113 werkzeug - WARNING -  * Debugger is active!
+[ 2023-05-14 19:08:09,468] 113 werkzeug - INFO -  * Debugger PIN: 807-301-817
+[ 2023-05-14 19:08:09,486] 113 werkzeug - WARNING -  * Debugger is active!
+[ 2023-05-14 19:08:09,495] 113 werkzeug - INFO -  * Debugger PIN: 807-301-817
+[ 2023-05-14 19:08:09,524] 113 werkzeug - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+[ 2023-05-14 19:08:09,560] 113 werkzeug - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+[ 2023-05-14 19:08:09,566] 113 werkzeug - WARNING -  * Debugger is active!
+[ 2023-05-14 19:08:09,573] 113 werkzeug - INFO -  * Debugger PIN: 807-301-817
+[ 2023-05-14 19:08:09,624] 113 werkzeug - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+[ 2023-05-14 19:09:35,757] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP User\\anaconda3\\Lib\\site-packages\\flask\\__pycache__\\debughelpers.cpython-38.pyc', reloading
+[ 2023-05-14 19:09:35,758] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP User\\anaconda3\\Lib\\site-packages\\flask\\__pycache__\\debughelpers.cpython-38.pyc', reloading
+[ 2023-05-14 19:09:35,773] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP User\\anaconda3\\Lib\\site-packages\\flask\\app.py', reloading
+[ 2023-05-14 19:09:35,774] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP User\\anaconda3\\Lib\\site-packages\\flask\\app.py', reloading
+[ 2023-05-14 19:09:35,779] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP User\\anaconda3\\Lib\\site-packages\\flask\\_compat.py', reloading
+[ 2023-05-14 19:09:35,780] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP User\\anaconda3\\Lib\\site-packages\\flask\\_compat.py', reloading
+[ 2023-05-14 19:09:35,780] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP User\\anaconda3\\Lib\\site-packages\\flask\\_compat.py', reloading
+[ 2023-05-14 19:09:36,075] 113 werkzeug - INFO -  * Detected change in 'e:\\mlproject\\src\\exception.py', reloading
+[ 2023-05-14 19:09:36,075] 113 werkzeug - INFO -  * Detected change in 'E:\\mlproject\\src\\exception.py', reloading
+[ 2023-05-14 19:09:36,076] 113 werkzeug - INFO - 127.0.0.1 - - [14/May/2023 19:09:36] "[35m[1mPOST /predictdata HTTP/1.1[0m" 500 -
+[ 2023-05-14 19:09:36,102] 113 werkzeug - INFO - 127.0.0.1 - - [14/May/2023 19:09:36] "[37mGET /predictdata?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+[ 2023-05-14 19:09:36,105] 113 werkzeug - INFO - 127.0.0.1 - - [14/May/2023 19:09:36] "[37mGET /predictdata?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+[ 2023-05-14 19:09:36,106] 113 werkzeug - INFO - 127.0.0.1 - - [14/May/2023 19:09:36] "[37mGET /predictdata?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+[ 2023-05-14 19:09:36,168] 113 werkzeug - INFO - 127.0.0.1 - - [14/May/2023 19:09:36] "[37mGET /predictdata?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+[ 2023-05-14 19:09:36,193] 113 werkzeug - INFO - 127.0.0.1 - - [14/May/2023 19:09:36] "[37mGET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[ 2023-05-14 19:09:36,219] 113 werkzeug - INFO - 127.0.0.1 - - [14/May/2023 19:09:36] "[37mGET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -

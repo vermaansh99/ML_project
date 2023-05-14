@@ -1,0 +1,71 @@
+[ 2023-05-14 19:15:08,401] 113 werkzeug - WARNING -  * Debugger is active!
+[ 2023-05-14 19:15:08,411] 113 werkzeug - INFO -  * Debugger PIN: 807-301-817
+[ 2023-05-14 19:15:08,475] 113 werkzeug - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+[ 2023-05-14 19:15:08,515] 113 werkzeug - WARNING -  * Debugger is active!
+[ 2023-05-14 19:15:08,524] 113 werkzeug - INFO -  * Debugger PIN: 807-301-817
+[ 2023-05-14 19:15:08,576] 113 werkzeug - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+[ 2023-05-14 19:46:05,607] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP User\\anaconda3\\Lib\\encodings\\__pycache__\\__init__.cpython-38.pyc', reloading
+[ 2023-05-14 19:46:05,607] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP User\\anaconda3\\Lib\\encodings\\__pycache__\\__init__.cpython-38.pyc', reloading
+[ 2023-05-14 19:46:05,608] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP User\\anaconda3\\Lib\\__pycache__\\codecs.cpython-38.pyc', reloading
+[ 2023-05-14 19:46:05,610] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP User\\anaconda3\\Lib\\__pycache__\\codecs.cpython-38.pyc', reloading
+[ 2023-05-14 19:46:05,611] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP User\\anaconda3\\Lib\\encodings\\__pycache__\\aliases.cpython-38.pyc', reloading
+[ 2023-05-14 19:46:05,611] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP User\\anaconda3\\Lib\\encodings\\__pycache__\\aliases.cpython-38.pyc', reloading
+[ 2023-05-14 19:46:05,613] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP User\\anaconda3\\Lib\\encodings\\__pycache__\\utf_8.cpython-38.pyc', reloading
+[ 2023-05-14 19:46:05,613] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP User\\anaconda3\\Lib\\encodings\\__pycache__\\utf_8.cpython-38.pyc', reloading
+[ 2023-05-14 19:46:05,614] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP User\\anaconda3\\Lib\\encodings\\__pycache__\\cp1252.cpython-38.pyc', reloading
+[ 2023-05-14 19:46:05,614] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP User\\anaconda3\\Lib\\encodings\\__pycache__\\cp1252.cpython-38.pyc', reloading
+[ 2023-05-14 19:46:05,616] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP User\\anaconda3\\Lib\\encodings\\__pycache__\\latin_1.cpython-38.pyc', reloading
+[ 2023-05-14 19:46:05,617] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP User\\anaconda3\\Lib\\__pycache__\\io.cpython-38.pyc', reloading
+[ 2023-05-14 19:46:05,617] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP User\\anaconda3\\Lib\\__pycache__\\io.cpython-38.pyc', reloading
+[ 2023-05-14 19:46:05,618] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP User\\anaconda3\\Lib\\__pycache__\\abc.cpython-38.pyc', reloading
+[ 2023-05-14 19:46:05,619] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP User\\anaconda3\\Lib\\__pycache__\\abc.cpython-38.pyc', reloading
+[ 2023-05-14 19:46:05,623] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP User\\anaconda3\\Lib\\__pycache__\\os.cpython-38.pyc', reloading
+[ 2023-05-14 19:46:05,623] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP User\\anaconda3\\Lib\\__pycache__\\os.cpython-38.pyc', reloading
+[ 2023-05-14 19:46:05,625] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP User\\anaconda3\\Lib\\__pycache__\\stat.cpython-38.pyc', reloading
+[ 2023-05-14 19:46:05,625] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP User\\anaconda3\\Lib\\__pycache__\\stat.cpython-38.pyc', reloading
+[ 2023-05-14 19:46:05,627] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP User\\anaconda3\\Lib\\__pycache__\\_collections_abc.cpython-38.pyc', reloading
+[ 2023-05-14 19:46:05,627] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP User\\anaconda3\\Lib\\__pycache__\\_collections_abc.cpython-38.pyc', reloading
+[ 2023-05-14 19:46:05,630] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP User\\anaconda3\\Lib\\__pycache__\\ntpath.cpython-38.pyc', reloading
+[ 2023-05-14 19:46:05,630] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP User\\anaconda3\\Lib\\__pycache__\\ntpath.cpython-38.pyc', reloading
+[ 2023-05-14 19:46:05,632] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP User\\anaconda3\\Lib\\__pycache__\\genericpath.cpython-38.pyc', reloading
+[ 2023-05-14 19:46:05,632] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP User\\anaconda3\\Lib\\__pycache__\\genericpath.cpython-38.pyc', reloading
+[ 2023-05-14 19:46:05,644] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP User\\anaconda3\\Lib\\__pycache__\\types.cpython-38.pyc', reloading
+[ 2023-05-14 19:46:05,644] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP User\\anaconda3\\Lib\\__pycache__\\types.cpython-38.pyc', reloading
+[ 2023-05-14 19:46:05,646] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP User\\anaconda3\\Lib\\importlib\\__pycache__\\__init__.cpython-38.pyc', reloading
+[ 2023-05-14 19:46:05,646] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP User\\anaconda3\\Lib\\importlib\\__pycache__\\__init__.cpython-38.pyc', reloading
+[ 2023-05-14 19:46:05,647] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP User\\anaconda3\\Lib\\__pycache__\\warnings.cpython-38.pyc', reloading
+[ 2023-05-14 19:46:05,647] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP User\\anaconda3\\Lib\\__pycache__\\warnings.cpython-38.pyc', reloading
+[ 2023-05-14 19:46:05,652] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP User\\anaconda3\\Lib\\importlib\\__pycache__\\machinery.cpython-38.pyc', reloading
+[ 2023-05-14 19:46:05,652] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP User\\anaconda3\\Lib\\importlib\\__pycache__\\machinery.cpython-38.pyc', reloading
+[ 2023-05-14 19:46:05,657] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP User\\anaconda3\\Lib\\collections\\__pycache__\\__init__.cpython-38.pyc', reloading
+[ 2023-05-14 19:46:05,657] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP User\\anaconda3\\Lib\\collections\\__pycache__\\__init__.cpython-38.pyc', reloading
+[ 2023-05-14 19:46:05,658] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP User\\anaconda3\\Lib\\__pycache__\\operator.cpython-38.pyc', reloading
+[ 2023-05-14 19:46:05,660] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP User\\anaconda3\\Lib\\__pycache__\\keyword.cpython-38.pyc', reloading
+[ 2023-05-14 19:46:05,660] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP User\\anaconda3\\Lib\\__pycache__\\keyword.cpython-38.pyc', reloading
+[ 2023-05-14 19:46:05,661] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP User\\anaconda3\\Lib\\__pycache__\\heapq.cpython-38.pyc', reloading
+[ 2023-05-14 19:46:05,661] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP User\\anaconda3\\Lib\\__pycache__\\heapq.cpython-38.pyc', reloading
+[ 2023-05-14 19:46:05,662] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP User\\anaconda3\\Lib\\__pycache__\\reprlib.cpython-38.pyc', reloading
+[ 2023-05-14 19:46:05,663] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP User\\anaconda3\\Lib\\__pycache__\\reprlib.cpython-38.pyc', reloading
+[ 2023-05-14 19:46:05,666] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP User\\anaconda3\\Lib\\__pycache__\\functools.cpython-38.pyc', reloading
+[ 2023-05-14 19:46:05,666] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP User\\anaconda3\\Lib\\__pycache__\\functools.cpython-38.pyc', reloading
+[ 2023-05-14 19:46:05,707] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP User\\anaconda3\\Lib\\__pycache__\\re.cpython-38.pyc', reloading
+[ 2023-05-14 19:46:05,707] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP User\\anaconda3\\Lib\\__pycache__\\re.cpython-38.pyc', reloading
+[ 2023-05-14 19:46:05,708] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP User\\anaconda3\\Lib\\__pycache__\\enum.cpython-38.pyc', reloading
+[ 2023-05-14 19:46:05,708] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP User\\anaconda3\\Lib\\__pycache__\\enum.cpython-38.pyc', reloading
+[ 2023-05-14 19:46:05,711] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP User\\anaconda3\\Lib\\__pycache__\\sre_compile.cpython-38.pyc', reloading
+[ 2023-05-14 19:46:05,712] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP User\\anaconda3\\Lib\\__pycache__\\sre_parse.cpython-38.pyc', reloading
+[ 2023-05-14 19:46:05,713] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP User\\anaconda3\\Lib\\__pycache__\\sre_constants.cpython-38.pyc', reloading
+[ 2023-05-14 19:46:05,717] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP User\\anaconda3\\Lib\\__pycache__\\copyreg.cpython-38.pyc', reloading
+[ 2023-05-14 19:46:05,717] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP User\\anaconda3\\Lib\\__pycache__\\copyreg.cpython-38.pyc', reloading
+[ 2023-05-14 19:46:05,753] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP User\\anaconda3\\Lib\\collections\\__pycache__\\abc.cpython-38.pyc', reloading
+[ 2023-05-14 19:46:05,753] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP User\\anaconda3\\Lib\\collections\\__pycache__\\abc.cpython-38.pyc', reloading
+[ 2023-05-14 19:46:05,784] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP User\\anaconda3\\Lib\\__pycache__\\inspect.cpython-38.pyc', reloading
+[ 2023-05-14 19:46:05,785] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP User\\anaconda3\\Lib\\__pycache__\\inspect.cpython-38.pyc', reloading
+[ 2023-05-14 19:46:05,786] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP User\\anaconda3\\Lib\\__pycache__\\dis.cpython-38.pyc', reloading
+[ 2023-05-14 19:46:05,786] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP User\\anaconda3\\Lib\\__pycache__\\dis.cpython-38.pyc', reloading
+[ 2023-05-14 19:46:05,788] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP User\\anaconda3\\Lib\\__pycache__\\opcode.cpython-38.pyc', reloading
+[ 2023-05-14 19:46:05,789] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP User\\anaconda3\\Lib\\__pycache__\\linecache.cpython-38.pyc', reloading
+[ 2023-05-14 19:46:05,791] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP User\\anaconda3\\Lib\\__pycache__\\tokenize.cpython-38.pyc', reloading
+[ 2023-05-14 19:46:05,792] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP User\\anaconda3\\Lib\\__pycache__\\token.cpython-38.pyc', reloading
+[ 2023-05-14 19:46:05,805] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP User\\anaconda3\\Lib\\__pycache__\\ast.cpython-38.pyc', reloading
+[ 2023-05-14 19:46:05,805] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP User\\anaconda3\\Lib\\__pycache__\\ast.cpython-38.pyc', reloading

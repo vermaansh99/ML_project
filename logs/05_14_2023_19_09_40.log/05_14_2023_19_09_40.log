@@ -1,0 +1,28 @@
+[ 2023-05-14 19:09:40,646] 113 werkzeug - WARNING -  * Debugger is active!
+[ 2023-05-14 19:09:40,655] 113 werkzeug - INFO -  * Debugger PIN: 807-301-817
+[ 2023-05-14 19:09:40,656] 113 werkzeug - WARNING -  * Debugger is active!
+[ 2023-05-14 19:09:40,665] 113 werkzeug - INFO -  * Debugger PIN: 807-301-817
+[ 2023-05-14 19:09:40,713] 113 werkzeug - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+[ 2023-05-14 19:09:40,720] 113 werkzeug - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+[ 2023-05-14 19:09:40,949] 113 werkzeug - WARNING -  * Debugger is active!
+[ 2023-05-14 19:09:40,958] 113 werkzeug - INFO -  * Debugger PIN: 807-301-817
+[ 2023-05-14 19:09:41,017] 113 werkzeug - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+[ 2023-05-14 19:11:19,422] 113 werkzeug - INFO -  * Detected change in 'e:\\mlproject\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2023-05-14 19:11:19,423] 113 werkzeug - INFO -  * Detected change in 'E:\\mlproject\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2023-05-14 19:11:19,423] 113 werkzeug - INFO -  * Detected change in 'e:\\mlproject\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2023-05-14 19:11:19,423] 113 werkzeug - INFO -  * Detected change in 'e:\\mlproject\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2023-05-14 19:11:19,423] 113 werkzeug - INFO -  * Detected change in 'e:\\mlproject\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2023-05-14 19:11:19,424] 113 werkzeug - INFO -  * Detected change in 'E:\\mlproject\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2023-05-14 19:11:19,424] 113 werkzeug - INFO -  * Detected change in 'E:\\mlproject\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2023-05-14 19:11:19,424] 113 werkzeug - INFO -  * Detected change in 'E:\\mlproject\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2023-05-14 19:11:19,425] 113 werkzeug - INFO -  * Detected change in 'e:\\mlproject\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2023-05-14 19:11:19,425] 113 werkzeug - INFO -  * Detected change in 'e:\\mlproject\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2023-05-14 19:11:19,425] 113 werkzeug - INFO -  * Detected change in 'E:\\mlproject\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2023-05-14 19:11:19,425] 113 werkzeug - INFO -  * Detected change in 'E:\\mlproject\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2023-05-14 19:11:19,425] 113 werkzeug - INFO -  * Detected change in 'E:\\mlproject\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2023-05-14 19:11:19,426] 113 werkzeug - INFO -  * Detected change in 'E:\\mlproject\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2023-05-14 19:11:19,426] 113 werkzeug - INFO -  * Detected change in 'e:\\mlproject\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2023-05-14 19:11:19,426] 113 werkzeug - INFO -  * Detected change in 'e:\\mlproject\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2023-05-14 19:11:19,426] 113 werkzeug - INFO -  * Detected change in 'e:\\mlproject\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2023-05-14 19:11:19,426] 113 werkzeug - INFO -  * Detected change in 'e:\\mlproject\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2023-05-14 19:11:19,426] 113 werkzeug - INFO -  * Detected change in 'E:\\mlproject\\src\\pipeline\\predict_pipeline.py', reloading

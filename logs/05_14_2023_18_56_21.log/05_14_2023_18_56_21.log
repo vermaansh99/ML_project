@@ -1,0 +1,22 @@
+[ 2023-05-14 18:56:21,499] 113 werkzeug - WARNING -  * Debugger is active!
+[ 2023-05-14 18:56:21,507] 113 werkzeug - WARNING -  * Debugger is active!
+[ 2023-05-14 18:56:21,509] 113 werkzeug - INFO -  * Debugger PIN: 807-301-817
+[ 2023-05-14 18:56:21,518] 113 werkzeug - INFO -  * Debugger PIN: 807-301-817
+[ 2023-05-14 18:56:21,585] 113 werkzeug - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+[ 2023-05-14 18:56:21,589] 113 werkzeug - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+[ 2023-05-14 19:01:47,436] 113 werkzeug - INFO -  * Detected change in 'E:\\mlproject\\app.py', reloading
+[ 2023-05-14 19:01:47,437] 113 werkzeug - INFO -  * Detected change in 'e:\\mlproject\\app.py', reloading
+[ 2023-05-14 19:01:47,439] 113 werkzeug - INFO -  * Detected change in 'E:\\mlproject\\app.py', reloading
+[ 2023-05-14 19:01:47,439] 113 werkzeug - INFO -  * Detected change in 'e:\\mlproject\\app.py', reloading
+[ 2023-05-14 19:01:47,440] 113 werkzeug - INFO -  * Detected change in 'e:\\mlproject\\app.py', reloading
+[ 2023-05-14 19:01:47,440] 113 werkzeug - INFO -  * Detected change in 'E:\\mlproject\\app.py', reloading
+[ 2023-05-14 19:01:47,440] 113 werkzeug - INFO -  * Detected change in 'e:\\mlproject\\app.py', reloading
+[ 2023-05-14 19:01:47,440] 113 werkzeug - INFO -  * Detected change in 'E:\\mlproject\\app.py', reloading
+[ 2023-05-14 19:01:47,446] 113 werkzeug - INFO -  * Detected change in 'e:\\mlproject\\app.py', reloading
+[ 2023-05-14 19:01:47,446] 113 werkzeug - INFO -  * Detected change in 'E:\\mlproject\\app.py', reloading
+[ 2023-05-14 19:01:47,451] 113 werkzeug - INFO -  * Detected change in 'e:\\mlproject\\app.py', reloading
+[ 2023-05-14 19:01:47,451] 113 werkzeug - INFO -  * Detected change in 'E:\\mlproject\\app.py', reloading
+[ 2023-05-14 19:01:47,452] 113 werkzeug - INFO -  * Detected change in 'e:\\mlproject\\app.py', reloading
+[ 2023-05-14 19:01:47,452] 113 werkzeug - INFO -  * Detected change in 'E:\\mlproject\\app.py', reloading
+[ 2023-05-14 19:01:47,452] 113 werkzeug - INFO -  * Detected change in 'e:\\mlproject\\app.py', reloading
+[ 2023-05-14 19:01:47,452] 113 werkzeug - INFO -  * Detected change in 'E:\\mlproject\\app.py', reloading
